@@ -1,0 +1,28 @@
+Keywords:
+we have 33 recserved key words in Python
+True,False,None
+while,for,break,continue,return,in, yield 
+try,except,finally,raise,assert,
+import,from,as,class,def,pass,global,nonlocal,lambda,del,with
+
+-----
+we have different types of IDE's
+IDE->pycham
+Jupiter notebook
+command prompt
+
+>Data type convertion
+ note: int datatype convert into float 
+       float convert into int data type
+       string cannot convert into  any other datatypes.
+       Boolean datatype cannot convert into any other datatypes.
+       
+
+
+
+
+Arbitrary Arguments, *args
+If you do not know how many arguments that will be passed into your function, add a * before the parameter name in the function definition.
+
+This way the function will receive a tuple of arguments, and can access the items accordingly:
+
